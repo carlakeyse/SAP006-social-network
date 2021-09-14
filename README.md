@@ -55,22 +55,27 @@ Baseando-se nisso, foi realizada uma pesquisa com usuários para que mapeassemos
 
 ### Home
 
+<img src="https://i.imgur.com/ze8AXAm.png" width="800">
 
 
-### Cadastro
+### Cadastro e Login Desktop
+
+<img src="https://i.imgur.com/PIV6DCF.gif" witdh="50">
 
 
+### Cadastro e Login Mobile
 
-### Login
-
+<img src="https://i.imgur.com/1qM0py8.gif" width="800">
 
 
 ### Feed
 
+<img src="https://i.imgur.com/glucOK8.gif" width="800">
 
 
 ### Not found
 
+<img src="https://i.imgur.com/aquD4oo.png" width="800">
 
 
 ## 7. ✔️ Objetivos de aprendizagem
