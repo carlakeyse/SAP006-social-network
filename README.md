@@ -22,6 +22,8 @@ Para nós mulheres essa experiência pode ser bem desafiadora por motivos divers
 
 Pensando nisso, a Rede Social SO.MU.S. (Rede social para mulheres que viajam, sozinhas ou não) foi criada para que todas possam trocar dicas, dificuldades, dúvidas, experiências e informações diversas sobre suas viagens. Tudo isso dentro de um ambiente seguro e acolhedor para que todas se sintam a vontade para compartilhar suas experiências.
 
+Acesse a aplicação aqui [clicando aqui](https://social-network-bcj.web.app/)
+
 ## 2. 📄 Resumo do projeto
 
 Fizemos um "brainstorm" e conseguimos levantar algumas ideias para nossa rede social.
